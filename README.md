@@ -8,7 +8,7 @@ A little shelf for screenshots, images, and words, right beneath your Mac’s no
 
 **macOS 14+ · Native Swift / AppKit / SwiftUI · MIT**
 
-[中文介绍](#中文介绍) · [English](#english) · [72 秒视频](docs/assets/notchline-showcase.mp4) · [构建指南](#从源码构建)
+[中文介绍](#中文介绍) · [English](#english) · [72 秒视频](https://github.com/erdoma5/Notchline/raw/refs/heads/main/docs/assets/notchline-showcase.mp4) · [构建指南](#从源码构建)
 
 </div>
 
@@ -18,9 +18,9 @@ A little shelf for screenshots, images, and words, right beneath your Mac’s no
 
 ## 视频介绍
 
-[![点击观看 Notchline 72 秒产品介绍](docs/assets/video-cover.png)](docs/assets/notchline-showcase.mp4)
+[![点击下载观看 Notchline 72 秒产品介绍](docs/assets/video-cover.png)](https://github.com/erdoma5/Notchline/raw/refs/heads/main/docs/assets/notchline-showcase.mp4)
 
-**[观看 / 下载完整视频 · 72 秒 · 1080p · 13 MB](docs/assets/notchline-showcase.mp4)**
+**[下载观看完整视频 · 72 秒 · 1080p · 13 MB](https://github.com/erdoma5/Notchline/raw/refs/heads/main/docs/assets/notchline-showcase.mp4)**
 
 视频与展示图为程序化产品演示，使用应用原生视觉素材，不是实机录屏。部分动作为展示而放慢，玻璃效果可能与真实桌面不同。视频展示「晾衣绳」主题；应用也提供「粒子浮现」。[素材说明](docs/MEDIA.md)
 
@@ -120,7 +120,7 @@ Pulling a card away preserves its source file. Cleanup, capacity limits, and exp
 
 ### Demo and credits
 
-The [72-second showcase](docs/assets/notchline-showcase.mp4) and selected images are programmatic demonstrations using native app visuals, not desktop recordings. Some motion is slowed for clarity. See [media provenance](docs/MEDIA.md).
+The [72-second showcase](https://github.com/erdoma5/Notchline/raw/refs/heads/main/docs/assets/notchline-showcase.mp4) and selected images are programmatic demonstrations using native app visuals, not desktop recordings. Some motion is slowed for clarity. See [media provenance](docs/MEDIA.md).
 
 Notchline is an independent derivative of [Tendedero v1.7.0](https://github.com/alejandrobujan/tendedero/tree/v1.7.0) by [Alejandro Buján](https://github.com/alejandrobujan). It uses a different name and original icon, as required by the upstream license. It is not endorsed by or affiliated with Tendedero.
 
