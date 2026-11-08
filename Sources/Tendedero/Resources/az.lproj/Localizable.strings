@@ -1,0 +1,101 @@
+/* Azerbaijani. Each key is the English text exactly as written in L("...")
+   in the code. Every language has the same keys; run
+   swift scripts/check-strings.swift to check. */
+
+/* AppDelegate */
+"Let Notchline handle your screenshots?" = "Ekran şəkillərinizi Notchline idarə etsin?";
+"Screenshots will hang on the line the instant you take them, without the floating thumbnail, and will not pile up on your Desktop. Click a photo to copy it, or pull it down to take it off the line. You can turn this off from the menu bar, and your settings come back when Notchline quits." = "Ekran şəkilləri üzən miniatür olmadan, çəkdiyiniz an ipdən asılacaq və İş masanızda yığılıb qalmayacaq. Şəkli köçürmək üçün üzərinə klikləyin, ipdən götürmək üçün aşağı çəkin. Bunu menyu panelindən söndürə bilərsiniz, Notchline bağlananda isə ayarlarınız əvvəlki halına qayıdır.";
+"Turn on" = "Aktiv et";
+"Not now" = "İndi yox";
+"Hide line" = "İpi gizlət";
+"Show line" = "İpi göstər";
+"Take everything down" = "Hamısını ipdən yığ";
+"Put back" = "İpə geri as";
+"Handle screenshots" = "Ekran şəkillərini idarə et";
+"Screenshots hang instantly and skip the Desktop" = "Ekran şəkilləri dərhal asılır və İş masasına düşmür";
+"Open screenshots folder" = "Ekran şəkilləri qovluğunu aç";
+"Sounds" = "Səslər";
+"Open at login" = "Sistemə girişdə aç";
+"Check for Updates…" = "Yeniləmələri yoxla…";
+"Quit Notchline" = "Notchline-dan çıx";
+"Could not change the login setting" = "Giriş ayarını dəyişmək alınmadı";
+"Move Notchline to the Applications folder and try again." = "Notchline-nu Applications (Proqramlar) qovluğuna köçürün və yenidən cəhd edin.";
+"Keep on line" = "İpdə saxla";
+"As many as fit" = "Sığdığı qədər";
+"%d items" = "%d element";
+"Also watch folders" = "Qovluqları da izlə";
+"Add Folder…" = "Qovluq əlavə et…";
+"Stop Watching" = "İzləməyi dayandır";
+"Watch" = "İzlə";
+"New images saved to this folder will hang on the line." = "Bu qovluğa saxlanan yeni şəkillər ipdən asılacaq.";
+"Shortcut" = "Qısayol";
+"Change Shortcut…" = "Qısayolu dəyiş…";
+"Change Shortcut" = "Qısayolu dəyiş";
+"None" = "Yoxdur";
+"Space" = "Boşluq";
+"Press the new shortcut" = "Yeni qısayolu basın";
+"Escape cancels. Delete removes the shortcut." = "Escape ləğv edir. Sil qısayolu silir.";
+"Size" = "Ölçü";
+"Small" = "Kiçik";
+"Medium" = "Orta";
+"Large" = "Böyük";
+"Bring the line down" = "İpi endir";
+"When the pointer rests in the menu bar" = "Göstərici menyu panelində dayananda";
+"When something new hangs" = "Yeni bir şey asılanda";
+"Over full screen apps" = "Tam ekran proqramların üzərində";
+"Hang copied images" = "Kopyalanmış şəkilləri as";
+"Images you copy hang on the line too" = "Kopyaladığınız şəkillər də ipdən asılır";
+"Hang copied text" = "Kopyalanmış mətni as";
+"Copy text to hang a clipping" = "Mətni kopyalayaraq qeydi ipə asın";
+"Notchline, watching the clipboard" = "Notchline, mübadilə buferini izləyir";
+"The line is empty" = "İp boşdur";
+"%d on the line" = "İpdə %d ədəd";
+
+/* GrabArea */
+"Copy" = "Kopyala";
+"Open" = "Aç";
+"Quick Look" = "Tez baxış";
+"Markup" = "İşarələmə";
+"Show in Finder" = "Finder-də göstər";
+"Save to Desktop" = "İş masasında saxla";
+"Discard" = "At";
+"Take down" = "İpdən götür";
+"Move to Trash" = "Zibil qutusuna at";
+"Take down everything to the left" = "Soldakıların hamısını götür";
+"Take down everything to the right" = "Sağdakıların hamısını götür";
+
+/* LineView */
+"Take a screenshot and it will hang here" = "Ekran şəkli çəkin, burada asılacaq";
+
+"Copied to clipboard" = "Mübadilə buferinə köçürüldü";
+"Pull down to remove" = "Götürmək üçün aşağı çəkin";
+"Release to take down" = "Götürmək üçün buraxın";
+"Taken off the line" = "İpdən götürüldü";
+
+/* TextNote */
+"Clipping flight speed" = "Qeyd kağızının uçuş sürəti";
+"Fast" = "Sürətli";
+"Slow" = "Yavaş";
+"Paste cancelled · Clipboard changed" = "Yapışdırma ləğv edildi · Mübadilə buferi dəyişdi";
+"New clipping style" = "Yeni qeydlərin üslubu";
+"Random colors" = "Təsadüfi rənglər";
+"Classic cream" = "Klassik krem rəngi";
+"Copy text or an image to hang it here" = "Buraya asmaq üçün mətn və ya şəkil kopyalayın";
+"Copy an image to hang it here" = "Buraya asmaq üçün şəkil kopyalayın";
+"Click to copy the full text · Double-click to paste" = "Bütün mətni kopyalamaq üçün klikləyin · Yapışdırmaq üçün iki dəfə klikləyin";
+"Paste requested" = "Yapışdırma əmri göndərildi";
+"Copied · Click an input field and press ⌘V" = "Kopyalandı · Giriş sahəsinə klikləyib ⌘V düymələrini basın";
+"Copied · Check Double-click paste access in the menu bar" = "Kopyalandı · Menyu sətrində iki kliklə yapışdırma icazəsini yoxlayın";
+"Double-click paste access" = "İki kliklə yapışdırma icazəsi";
+"This copy is authorized" = "Bu nüsxəyə icazə verilib";
+"This copy needs authorization" = "Bu nüsxəyə icazə lazımdır";
+"Open permission settings…" = "İcazə parametrlərini aç…";
+"Show this app in Finder" = "Bu tətbiqi Finder-də göstər";
+"Clipping" = "Sitat";
+"Characters · %@" = "Simvol sayı · %@";
+
+"Appearance" = "Görünüş";
+
+"Clothesline" = "Paltar ipi";
+
+"Particle emergence" = "Zərrəciklərin yaranması";
